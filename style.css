@@ -49,7 +49,7 @@ header {
     background: #E78D5C;
 }
 
-.hamburger-menu {
+#hamburger-menu {
     position: absolute;
     top: 0;
     left: 0;
@@ -61,7 +61,7 @@ header {
     min-height: 100vh;
     background: #2B3F58;
 }
-.hamburger-menu ul {
+#hamburger-menu ul {
     display: flex;
     height: 100%;
     flex-direction: column;
@@ -69,7 +69,7 @@ header {
     align-items: flex-start;
     list-style: none;
 }
-.hamburger-menu ul li a {
+#hamburger-menu ul li a {
     color: white;
     text-decoration: none;
     font-size: 25px;
